@@ -40,8 +40,6 @@ function Form() {
         </Link>
     </div >
 </div >
-
   );
 }
-
 export default Form;
